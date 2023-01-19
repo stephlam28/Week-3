@@ -1,6 +1,6 @@
 # Week-3
 
-## Our very frst repository!!
+## Our very first repository!!
 
 ### WE LEARNING GIT
 
